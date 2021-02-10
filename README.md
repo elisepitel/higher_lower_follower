@@ -1,2 +1,3 @@
 # higher_lower_follower
-Little program to guess who has the must followers
+
+Simple python program to plays simple version of [Higher Lower Game](http://www.higherlowergame.com "Higher Lower Game") by guessing which personality has the must instagram followers. 
